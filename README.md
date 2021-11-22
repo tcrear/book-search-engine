@@ -2,12 +2,10 @@
 U of MN Bootcamp homework #21
 
   # Table of Contents
-  License,Installation,Usage,Test,Contribute,Questions,Links
   - [Description](#description)
   - [Install](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [Tests](#tests)
   - [License: MIT](#license)
   - [Questions](#questions)
   - [Links](#links)
@@ -23,10 +21,6 @@ U of MN Bootcamp homework #21
 
   # Contribution
   If you would like to contribute to the project, please reach out on GitHub or email.
-  self
-
-  # Tests
-  
 
   # License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -34,8 +28,16 @@ U of MN Bootcamp homework #21
   # Questions
   If you have questions on this project, please reach out via https://github.com/tcrear or tammie.crear@gmail.com. 
 
-  # Links to Deployed Site
-  https://github.com/tcrear/book-search-engine
+## Link to Deployed Site
+
+[Link to GitHub](https://github.com/tcrear/book-search-engine)
+
+[Link to Heroku](https://crear-book-search-engine.herokuapp.com/)
+
+## Deloyed Site Screenshot
+
+![image]( )
+
 
 
 
