@@ -1,4 +1,4 @@
-// see SignupForm.js for comments
+1// see SignupForm.js for comments
 
 import React, { useState, useEffect } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
@@ -13,7 +13,7 @@ const LoginForm = () => {
   const [validated] = useState(false);
   const [showAlert, setShowAlert] = useState(false);
 
-  // TODO: call the LOGIN_USER mutation; the response will be saved an an array. The first item in the array is the login variable, the second is a destructured error property
+  const [login, { error }] = userMutation(LOGIN_USER);
 
   useEffect(() => {
     if (error) {
